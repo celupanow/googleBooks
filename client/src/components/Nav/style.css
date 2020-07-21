@@ -1,0 +1,13 @@
+.navbar {
+    margin-bottom: 0;
+    background-color: rgb(115, 255, 197);
+  }
+
+  a {
+    color: navy;
+  }
+
+  a:hover {
+    color: grey;
+  }
+  
