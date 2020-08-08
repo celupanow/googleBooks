@@ -12,7 +12,7 @@ Working Link
  - Allow the user to delete books from their list.
  
 ## How It Works
-Copy the repo and install the package.json in the client folder and in the root folder. You will need MongoDB and Node.js installed on your machine. Run the server in the root folder and use npm start in the client folder. The w
+Copy the repo and install the package.json in the client folder and in the root folder. You will need MongoDB and Node.js installed on your machine. Run the server in the root folder and use npm start in the client folder. The main page will display with a search bar and an empty results area. Put in a search term to search the Google Books API. Click the Save button to save any of the books in the list. Go to the Saved page in the Nav Bar and it will display all of the books that have been saved. Click the Delete button to delete any books. 
 
 ## Technologies
 
@@ -23,5 +23,5 @@ Copy the repo and install the package.json in the client folder and in the root 
  - AJAX
  - Giphy API
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMTczNzg5Ml19
+eyJoaXN0b3J5IjpbLTM0MTQ0Mjk2XX0=
 -->
