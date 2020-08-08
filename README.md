@@ -12,7 +12,7 @@ Working Link
  - Allow the user to delete books from their list.
  
 ## How It Works
-This is a MERN app that incorporates all of the pieces of that stack. 
+Copy the repo and install the package.json in the client folder and in the root folder. You will need MongoDB and Node.js installed on your machine. Run the server in the root folder and use npm start in the client folder. The w
 
 ## Technologies
 
@@ -23,5 +23,5 @@ This is a MERN app that incorporates all of the pieces of that stack.
  - AJAX
  - Giphy API
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MzQzNTY0OF19
+eyJoaXN0b3J5IjpbMTgxMTczNzg5Ml19
 -->
