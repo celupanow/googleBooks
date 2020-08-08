@@ -16,12 +16,16 @@ Copy the repo and install the package.json in the client folder and in the root 
 
 ## Technologies
 
- - HTML
- - CSS
- - jQuery
- - JavaScript
- - AJAX
- - Giphy API
+ - React
+ - JSX
+ - MongoDB
+ - Node.js
+ - Express.js
+ - Google Books API
+ - react-router-dom
+ - Axios
+ - Mongoose
+ - MVC folder s
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTQ0Mjk2XX0=
+eyJoaXN0b3J5IjpbLTIwODc2NjQ4NTNdfQ==
 -->
