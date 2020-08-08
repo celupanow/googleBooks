@@ -2,7 +2,7 @@
 This website uses the Google Books API, which allows a user to search for books and displays the results. The user may then save any of the books to their saved books list. They can then navigate to their saved books to view or delete them.
 
 Working Link
-[Deployed on GitHub Pages](https://celupanow.github.io/giphy)
+[Deployed on Heroku]([https://immense-everglades-05618.herokuapp.com/](https://immense-everglades-05618.herokuapp.com/))
 
 ## Objectives
 
@@ -24,5 +24,5 @@ When the page loads, it runs a function that displays several buttons that are c
  - AJAX
  - Giphy API
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTI3NzgwOTVdfQ==
+eyJoaXN0b3J5IjpbLTE1NjI1OTQ3ODFdfQ==
 -->
