@@ -12,7 +12,7 @@ Working Link
  - Allow the user to delete books from their list.
  
 ## How It Works
-This is a MERN app and 
+This is a MERN app that incorporates all of the pieces of that stack. 
 
 ## Technologies
 
@@ -23,5 +23,5 @@ This is a MERN app and
  - AJAX
  - Giphy API
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDE3NjA0MV19
+eyJoaXN0b3J5IjpbMTQ5MzQzNTY0OF19
 -->
