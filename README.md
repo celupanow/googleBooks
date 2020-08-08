@@ -25,7 +25,7 @@ Copy the repo and install the package.json in the client folder and in the root 
  - react-router-dom
  - Axios
  - Mongoose
- - MVC folder s
+ - MVC 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODc2NjQ4NTNdfQ==
+eyJoaXN0b3J5IjpbMTA1NTA3MjIwNF19
 -->
