@@ -67,14 +67,15 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 You will need to have the lastest version of npm installed.
-* npm
 ```sh
 npm install npm@latest -g
 ```
+
 You will also need MongoDB installed. 
+
 The npm package concurrently will need to be installed globally.
 ```sh
-npm install 
+npm install -g concurrently
 ```
   
 ### Installation
@@ -90,12 +91,15 @@ git clone https://github.com/celupanow/googleBooks.git
 ```sh
 npm install
 ```
-3. Run the MySQL schema and seeds to create the database
-4. Run the application using the command line
+3. Run MongoDB in the root folder
+```sh
+mongod
+```
+5. Run the application using the command line
 ```sh
 node server.js
 ```
-5. Go to localhost:8080 in your browser
+6. Go to localhost:8080 in your browser
 
 <!-- ROADMAP -->
 
@@ -178,6 +182,6 @@ Copy the repo and install the package.json in the client folder and in the root 
  - Mongoose
  - MVC 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwODEzOTQ3LDE4OTc2MTg1NjIsMTA1NT
-A3MjIwNF19
+eyJoaXN0b3J5IjpbMjEwOTUwNjcwMywxODk3NjE4NTYyLDEwNT
+UwNzIyMDRdfQ==
 -->
