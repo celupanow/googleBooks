@@ -33,17 +33,6 @@ This application allows a user to search the Google Books API and save books utl
  
 <!-- ABOUT THE PROJECT -->
 
- - React
- - JSX
- - MongoDB
- - Node.js
- - Express.js
- - Google Books API
- - react-router-dom
- - Axios
- - Mongoose
- - MVC 
-
 ## About The Project
 ![Google Books](./client/public/googlebooks-immense-everglades.png "Google Books")
 
@@ -114,7 +103,7 @@ See the [open issues](https://github.com/celupanow/googleBooks/issues) for a lis
 ## Contact
 Christina Lupanow - christina@christinalupanow.com
 <p>
-Project Link: [https://still-citadel-06884.herokuapp.com/](https://still-citadel-06884.herokuapp.com/)
+Project Link: [https://immense-everglades-05618.herokuapp.com/](https://immense-everglades-05618.herokuapp.com/)
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -151,37 +140,7 @@ Project Link: [https://still-citadel-06884.herokuapp.com/](https://still-citadel
 [linkedin-url]: https://linkedin.com/in/celupanow
 
 [product-screenshot]: images/screenshot.png
-
-
-# googleBooks
-This website uses the Google Books API, which allows a user to search for books and displays the results. The user may then save any of the books to their saved books list. They can then navigate to their saved books to view or delete them.
-
-Working Link
-[Deployed on Heroku](https://immense-everglades-05618.herokuapp.com/)
-
-## Objectives
-
- - Allow user to search the Google Books API.
- - Display the results and allow the user to save books.
- - Display the saved books on another page.
- - Allow the user to delete books from their list.
- 
-## How It Works
-Copy the repo and install the package.json in the client folder and in the root folder. You will need MongoDB and Node.js installed on your machine. Run the server in the root folder and use npm start in the client folder. The main page will display with a search bar and an empty results area. Put in a search term to search the Google Books API. Click the Save button to save any of the books in the list. Go to the Saved page in the Nav Bar and it will display all of the books that have been saved. Click the Delete button to delete any books. 
-
-## Technologies
-
- - React
- - JSX
- - MongoDB
- - Node.js
- - Express.js
- - Google Books API
- - react-router-dom
- - Axios
- - Mongoose
- - MVC 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDc4ODM2ODQsMTg5NzYxODU2MiwxMD
-U1MDcyMjA0XX0=
+eyJoaXN0b3J5IjpbNzAyMjI4NDQyLDE4OTc2MTg1NjIsMTA1NT
+A3MjIwNF19
 -->
