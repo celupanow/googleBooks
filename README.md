@@ -34,7 +34,7 @@ This application allows a user to search the Google Books API and save books utl
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-![Eat-Da-Burger: Sequelized](./public/assets/img/eatdaburgersequelize-still-citadel.png "Eat-Da-Burger: Sequelized")
+![Google Books](./client/public/google.png "Eat-Da-Burger: Sequelized")
 
 ### Built With
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -161,5 +161,5 @@ Copy the repo and install the package.json in the client folder and in the root 
  - Mongoose
  - MVC 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDIyNDU2NiwxMDU1MDcyMjA0XX0=
+eyJoaXN0b3J5IjpbLTQxMzY5MTEzNCwxMDU1MDcyMjA0XX0=
 -->
