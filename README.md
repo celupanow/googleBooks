@@ -55,8 +55,8 @@ This application allows a user to search the Google Books API and save books utl
 * [Google Books API](https://developers.google.com/books)
 * [react-router-dom](https://reactrouter.com/web/guides/quick-start)
 * [Axios](https://www.npmjs.com/package/axios)
-* [Mongoose]
-* [concurrently]
+* [Mongoose](https://www.npmjs.com/package/mongoose)
+* [concurrently](https://www.npmjs.com/package/concurrently)
 
 <!-- GETTING STARTED -->
 
@@ -71,7 +71,11 @@ You will need to have the lastest version of npm installed.
 ```sh
 npm install npm@latest -g
 ```
-You will also need MySQL installed. There is a schema file and a seeds file included with the basic sample data you see in the working demo. If you are using MySQL Workbench, you should be able to run this script and create the database.
+You will also need MongoDB installed. 
+The npm package concurrently will need to be installed globally.
+```sh
+npm install 
+```
   
 ### Installation
 
@@ -174,6 +178,6 @@ Copy the repo and install the package.json in the client folder and in the root 
  - Mongoose
  - MVC 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzkyMzU5NiwxODk3NjE4NTYyLDEwNT
-UwNzIyMDRdfQ==
+eyJoaXN0b3J5IjpbNzEwODEzOTQ3LDE4OTc2MTg1NjIsMTA1NT
+A3MjIwNF19
 -->
