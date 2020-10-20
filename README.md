@@ -48,14 +48,15 @@ This application allows a user to search the Google Books API and save books utl
 ![Google Books](./client/public/googlebooks-immense-everglades.png "Google Books")
 
 ### Built With
-* [React](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [MongoDB](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [React](https://reactjs.org/docs/getting-started.html)
+* [MongoDB](https://www.mongodb.com/)
 * [Node.js](https://nodejs.org)
 * [Express](https://expressjs.com/)
-* [Google Books API]
-* [react-router-dom]
-* [Axios]
+* [Google Books API](https://developers.google.com/books)
+* [react-router-dom](https://reactrouter.com/web/guides/quick-start)
+* [Axios](https://www.npmjs.com/package/axios)
 * [Mongoose]
+* [concurrently]
 
 <!-- GETTING STARTED -->
 
@@ -173,6 +174,6 @@ Copy the repo and install the package.json in the client folder and in the root 
  - Mongoose
  - MVC 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MTk5NjkyMCwxODk3NjE4NTYyLDEwNT
+eyJoaXN0b3J5IjpbLTEyNzkyMzU5NiwxODk3NjE4NTYyLDEwNT
 UwNzIyMDRdfQ==
 -->
