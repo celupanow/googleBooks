@@ -5,7 +5,7 @@
  
 <h3 align="center">Google Books</h3>
 <p align="center">
-This application allows a user to search the Google Books API and save books utlizing MongoDB.
+This application allows a user to search the Google Books API and save books utilizing MongoDB.
 <br />
 <br />
 <a href="https://immense-everglades-05618.herokuapp.com/">View Demo</a>
@@ -141,6 +141,6 @@ Project Link: [https://immense-everglades-05618.herokuapp.com/](https://immense-
 
 [product-screenshot]: images/screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAyMjI4NDQyLDE4OTc2MTg1NjIsMTA1NT
-A3MjIwNF19
+eyJoaXN0b3J5IjpbMTk5MzUyNTU5Myw3MDIyMjg0NDIsMTg5Nz
+YxODU2MiwxMDU1MDcyMjA0XX0=
 -->
