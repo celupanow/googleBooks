@@ -5,10 +5,10 @@
  
 <h3 align="center">Google Books</h3>
 <p align="center">
-This application al
+This application allows a user to search the Google Books API and save books utlizing MongoDB.
 <br />
 <br />
-<a href=" https://drive.google.com/file/d/1KAnbUqia4wWURy0AiWkc-LvggEZjpoud/view">View Demo</a>
+<a href="https://immense-everglades-05618.herokuapp.com/">View Demo</a>
 ·
 <a href="https://github.com/celupanow/googleBooks/issues">Report Bug</a>
 ·
@@ -161,5 +161,5 @@ Copy the repo and install the package.json in the client folder and in the root 
  - Mongoose
  - MVC 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyNzcyMDcwLDEwNTUwNzIyMDRdfQ==
+eyJoaXN0b3J5IjpbLTg5NDIyNDU2NiwxMDU1MDcyMjA0XX0=
 -->
