@@ -91,15 +91,15 @@ git clone https://github.com/celupanow/googleBooks.git
 ```sh
 npm install
 ```
-3. Run MongoDB in the root folder
+3. Run MongoDB in the command line
 ```sh
 mongod
 ```
-5. Run the application using the command line
+5. Run the React application in a new terminal
 ```sh
-node server.js
+npm start
 ```
-6. Go to localhost:8080 in your browser
+6. The browser should automatically open to localhost:3000
 
 <!-- ROADMAP -->
 
@@ -182,6 +182,6 @@ Copy the repo and install the package.json in the client folder and in the root 
  - Mongoose
  - MVC 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTUwNjcwMywxODk3NjE4NTYyLDEwNT
-UwNzIyMDRdfQ==
+eyJoaXN0b3J5IjpbLTE2NDc4ODM2ODQsMTg5NzYxODU2MiwxMD
+U1MDcyMjA0XX0=
 -->
