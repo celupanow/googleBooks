@@ -137,10 +137,10 @@ Project Link: [https://immense-everglades-05618.herokuapp.com/](https://immense-
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 
-[linkedin-url]: https://linkedin.com/in/celupanow
+[linkedin-url]:https://www.linkedin.com/in/christinalupanow
 
 [product-screenshot]: images/screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MzUyNTU5Myw3MDIyMjg0NDIsMTg5Nz
-YxODU2MiwxMDU1MDcyMjA0XX0=
+eyJoaXN0b3J5IjpbMjE1MjA3NjI1LDE5OTM1MjU1OTMsNzAyMj
+I4NDQyLDE4OTc2MTg1NjIsMTA1NTA3MjIwNF19
 -->
